@@ -4,7 +4,7 @@
 
 Connect a PrestaShop product catalog to OpenAI Ads and prepare products for ChatGPT Ads campaigns. This PrestaShop module synchronizes product data with the Syntropic Signal feed service, which validates and converts the catalog and hosts the resulting product feed.
 
-**Website:** [OpenAI Ads for PrestaShop](https://syntropicsignal.ai/prestashop-openai-ads/) · **Download:** [PrestaShop module ZIP](https://syntropicsignal.ai/downloads/openaiadsfeed-prestashop-0.2.0.zip)
+**Website:** [OpenAI Ads for PrestaShop](https://syntropicsignal.ai/prestashop-openai-ads/) · **Download:** [PrestaShop module ZIP](https://github.com/syntropicsignal-ai/prestashop-openai-ads/releases/latest/download/openaiadsfeed-prestashop-0.2.0.zip)
 
 ## What the module does
 
@@ -19,7 +19,7 @@ The product-feed conversion and hosting service is separate from this repository
 
 ## Install
 
-1. Download the module ZIP from the [Syntropic website](https://syntropicsignal.ai/downloads/openaiadsfeed-prestashop-0.2.0.zip) or the [GitHub Releases page](https://github.com/syntropicsignal-ai/prestashop-openai-ads/releases).
+1. Download the module ZIP from [GitHub Releases](https://github.com/syntropicsignal-ai/prestashop-openai-ads/releases/latest/download/openaiadsfeed-prestashop-0.2.0.zip). The link becomes publicly accessible after the repository and release are made public.
 2. In PrestaShop, open **Modules → Module Manager → Upload a module** and select the ZIP.
 3. Open the module settings and select **Connect and synchronize now**.
 4. Add the displayed synchronization URL to your hosting cron scheduler to refresh the catalog daily.
