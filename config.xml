@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>openaiadsfeed</name>
+    <displayName><![CDATA[OpenAI Ads & ChatGPT Ads for PrestaShop]]></displayName>
+    <version><![CDATA[0.2.0]]></version>
+    <description><![CDATA[Connect your PrestaShop catalog to OpenAI Ads for ChatGPT Ads. Product synchronization, data validation and Hosted URL.]]></description>
+    <author><![CDATA[Syntropic Signal]]></author>
+    <tab><![CDATA[advertising_marketing]]></tab>
+    <confirmUninstall><![CDATA[Are you sure you want to disconnect this feed?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+    <limited_countries></limited_countries>
+    <ps_versions_compliancy>
+        <min>1.7.8.0</min>
+        <max>9.99.99</max>
+    </ps_versions_compliancy>
+</module>
