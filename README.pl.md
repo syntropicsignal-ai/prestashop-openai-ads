@@ -41,7 +41,7 @@ Moduł w wersji **0.2.0** deklaruje zgodność z PrestaShop **od 1.7.8.0 do 9.99
 
 Synchronizacja katalogu wysyła identyfikatory produktów, nazwy, opisy, publiczne adresy produktów i zdjęć, ceny, dostępność, nazwy producentów, wartości GTIN/MPN i opcje wariantów. Do synchronizacji katalogu nie odczytuje danych klientów ani zamówień. Opcjonalny Pixel działa osobno i dopiero po uzyskaniu zgody marketingowej.
 
-Więcej informacji: [polityka prywatności](https://syntropicsignal.ai/privacy-policy/) i [strona modułu PrestaShop](https://syntropicsignal.ai/pl/prestashop-openai-ads/).
+Więcej informacji: [polityka prywatności](https://syntropicsignal.ai/pl/polityka-prywatnosci/) i [strona modułu PrestaShop](https://syntropicsignal.ai/pl/prestashop-openai-ads/).
 
 ## Rozwój
 
